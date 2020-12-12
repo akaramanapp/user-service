@@ -1,0 +1,29 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "description": "user list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akaramanapp/user-service.git"
+  },
+  "keywords": [
+    "user",
+    "userlist",
+    "service",
+    "nodejs"
+  ],
+  "author": "abdulkerimkaraman@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akaramanapp/user-service/issues"
+  },
+  "homepage": "https://github.com/akaramanapp/user-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
